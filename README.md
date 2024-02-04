@@ -1,2 +1,2 @@
 # term-cord
-Simpe giscord client for terminal. Written in pycord.
+Simpe discord client for terminal. Written in pycord.
